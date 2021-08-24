@@ -1,0 +1,8 @@
+export const GET_TICKETS = 'TICKET/GET_TICKETS';
+export const BUFFER_TICKET = 'TICKET/BUFFER_TICKET';
+export const FILTER = 'CHECKBOX/FILTER';
+export const SORT = 'SORT';
+export const BTN_SHOW_MORE = 'BUTTON/BTN_SHOW_MORE';
+export const SPINNER_SHOW = 'LOADING/SPINNER_SHOW';
+export const SPINNER_HIDE = 'LOADING/SPINNER_HIDE';
+export const CHANGE_FILTER_ID = 'CHANGE_FILTER_ID';
